@@ -1,2 +1,2 @@
 UIAutomation-JavaSelenium
-Framework Using Java Selenium -TestNg
+Framework Using Java Selenium & TestNg
